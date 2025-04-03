@@ -5,4 +5,4 @@ All of the important common notes in every project:
 2.  Problem Description
 3.  Solution Approach
 4.  Solution Code
-5.  Interactive Dashboard
+5.  Interactive Dashboard (If Possible)
